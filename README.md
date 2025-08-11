@@ -23,8 +23,8 @@ The goal of this project is to develop a software solution, called **myFoodora**
 - Fidelity plans for customer discounts and special menus  
 
 **Project parts:**
-1. **myFoodora core** — Java infrastructure (see Section 2)
-2. **myFoodora user-interface** — Command-Line User Interface (see Section 4)
+1. **myFoodora core** — Java infrastructure 
+2. **myFoodora user-interface** — Command-Line User Interface 
 
 ---
 
